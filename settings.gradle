@@ -1,0 +1,2 @@
+rootProject.name = "MyAuthApp"
+include ':app'
