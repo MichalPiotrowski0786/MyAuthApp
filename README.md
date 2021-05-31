@@ -12,3 +12,8 @@ Application uses safe FirebaseAuth, FirebaseUser and FirebaseFirestore classes t
 
 Screenshots:
 !["0"](/screenshots/main.png)
+!["1"](/screenshots/reg.png)
+!["2"](/screenshots/res.png)
+!["3"](/screenshots/info.png)
+!["4"](/screenshots/delete.png)
+!["5"](/screenshots/mail.png)
