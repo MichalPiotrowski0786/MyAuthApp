@@ -18,3 +18,5 @@ Screenshots:
 !["3"](/screenshots/info.png)
 !["4"](/screenshots/delete.png)
 !["5"](/screenshots/mail.png)
+!["6"](/screenshots/db.png)
+!["7"](/screenshots/auth.png)
